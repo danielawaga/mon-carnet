@@ -1,0 +1,8 @@
+.env
+.env.*
+node_modules/
+*.zip
+*complete*.html
+*complet*.html
+*sauvegarde*.json
+mes-donnees/
